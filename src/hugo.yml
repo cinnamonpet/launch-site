@@ -1,0 +1,15 @@
+baseurl: "https://CinnamonPet.com/"
+title: "Cinnamon Pet"
+canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+googleAnalytics: ""
+
+params:
+  tagline: "Join us on a journey to create a brighter and smarter future for our pets."
+  mailchimpURL: "https://CinnamonPet.us17.list-manage.com/subscribe/post?u=b5f4dfe8b464c4a246ed9fe1c&amp;id=f4f8eb9a44&amp;f_id=00ea6fe0f0"
+  instagram: "https://www.instagram.com/cinnamonpethq/"
+  facebook: "https://www.facebook.com/profile.php?id=61564873315887"
+  mastodon: "https://social.CinnamonPet.com/@CinnamonPet"
