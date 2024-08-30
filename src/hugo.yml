@@ -5,7 +5,7 @@ paginate: 3
 
 theme: "hugo-theme-lean-launch-page"
 
-googleAnalytics: ""
+googleAnalytics: "G-65VPBF5Q50"
 
 params:
   tagline: "Join us on a journey to create a brighter and smarter future for our pets."
