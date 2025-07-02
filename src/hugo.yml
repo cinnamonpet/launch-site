@@ -1,7 +1,6 @@
 baseurl: "https://CinnamonPet.com/"
 title: "Cinnamon Pet"
 canonifyurls: true
-paginate: 3
 
 theme: "hugo-theme-lean-launch-page"
 
